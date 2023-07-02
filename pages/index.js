@@ -11,10 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Marcel ÀVila" />
+        <Header title="Marcel Àvila" />
         <p className="description">
           Programador especializado en HTML 5 y CSS, con diploma oficial de Sololearn. Tengo varios proyectos 
           que podries ir viendo a continuación. 
+            <br>
         </p>
       </main>
 
