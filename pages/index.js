@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Marcel ÀVila" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Programador especializado en HTML 5 y CSS, con diploma oficial de Sololearn. Tengo varios proyectos 
+          que podries ir viendo a continuación. 
         </p>
       </main>
 
